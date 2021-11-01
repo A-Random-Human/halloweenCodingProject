@@ -1,4 +1,4 @@
-# halloweenCodingProject - Trick Or Treat
+# HalloweenCodingProject - Trick Or Treat
 Members: Haley Groesbeck and Giselle Paedon
 
 Description: You "trick or treat" by clicking the candy. For the 'treat' you'll get a different candy, 
